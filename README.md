@@ -17,10 +17,10 @@ The size for each language is 10 000 texts evenly balanced between positive and 
 
 For our paper: `Stop Training, Start Translating` we used the first 7500 texts for training and the last 2500 texts for evaluating.
 
-#### [ScandiSent.zip](ScandiSent.zip)
+#### [ScandiSent.zip](ScandiSent.zip) 🇸🇪 🇳🇴 🇩🇰 🇫🇮 + 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 Is the raw data for each language where we used [fastText](https://fasttext.cc/docs/en/language-identification.html) language identification to ensure that the texts were of the right language.
 
-#### [ScandiSent-mt.zip](ScandiSent-mt.zip)
+#### [ScandiSent-mt.zip](ScandiSent-mt.zip) 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 Consists of the raw data from `ScandiSent` machine translated to English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 using Googles Neural Machine Translation API.
 
 ## Version 1.0
