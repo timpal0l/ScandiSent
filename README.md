@@ -13,7 +13,7 @@ categories = ['animals_pets', 'electronics_technology', 'events_entertainment', 
 'education_training', 'beauty_wellbeing', 'sports', 'housing_utility_company']
 ```
 
-The size for each language is 10 000 texts evenly balanced between positive and negative reviews. A positive review is considered as a text with the rating `4 or 5`, and a negative review is rated as `1 or 2`. The texts rated as `3` were not used.
+The size for each language is 10 000 texts evenly balanced between positive and negative reviews. A positive review is considered as a text with the rating `4 or 5`, and a negative review is rated as `1 or 2`. The texts rated as `3` were not used. The zip files consist of csv files for each language with the columns `text` and `label`, were `label` == `1` is a positive review and `label` == `0`is a negative review.
 
 For our paper: `Stop Training, Start Translating` we used the first 7500 texts for training and the last 2500 texts for evaluating.
 
