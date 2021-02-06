@@ -3,7 +3,7 @@ Sentiment Corpus for Swedish 🇸🇪 Norwegian 🇳🇴 Danish 🇩🇰 Finnish
 
 ## Information
 The corpus is crawled from [se.trustpilot.com](https://se.trustpilot.com/), [no.trustpilot.com](https://no.trustpilot.com/), [dk.trustpilot.com](https://dk.trustpilot.com/), [fi.trustpilot.com](https://fi.trustpilot.com/) and [trustpilot.com](https://trustpilot.com/).
-It consists of reviews from all the corresponding 22 categories:
+It consists of reviews from all the 22 corresponding categories:
 
 ```javascript
 categories = ['animals_pets', 'electronics_technology', 'events_entertainment', 'vehicles_transportation',
